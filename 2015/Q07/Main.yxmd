@@ -1,0 +1,1585 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="270" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="339" />
+          <Fields>
+            <Field name="Logic" />
+          </Fields>
+          <Data>
+            <r>
+              <c>lf AND lq -&gt; ls</c>
+            </r>
+            <r>
+              <c>iu RSHIFT 1 -&gt; jn</c>
+            </r>
+            <r>
+              <c>bo OR bu -&gt; bv</c>
+            </r>
+            <r>
+              <c>gj RSHIFT 1 -&gt; hc</c>
+            </r>
+            <r>
+              <c>et RSHIFT 2 -&gt; eu</c>
+            </r>
+            <r>
+              <c>bv AND bx -&gt; by</c>
+            </r>
+            <r>
+              <c>is OR it -&gt; iu</c>
+            </r>
+            <r>
+              <c>b OR n -&gt; o</c>
+            </r>
+            <r>
+              <c>gf OR ge -&gt; gg</c>
+            </r>
+            <r>
+              <c>NOT kt -&gt; ku</c>
+            </r>
+            <r>
+              <c>ea AND eb -&gt; ed</c>
+            </r>
+            <r>
+              <c>kl OR kr -&gt; ks</c>
+            </r>
+            <r>
+              <c>hi AND hk -&gt; hl</c>
+            </r>
+            <r>
+              <c>au AND av -&gt; ax</c>
+            </r>
+            <r>
+              <c>lf RSHIFT 2 -&gt; lg</c>
+            </r>
+            <r>
+              <c>dd RSHIFT 3 -&gt; df</c>
+            </r>
+            <r>
+              <c>eu AND fa -&gt; fc</c>
+            </r>
+            <r>
+              <c>df AND dg -&gt; di</c>
+            </r>
+            <r>
+              <c>ip LSHIFT 15 -&gt; it</c>
+            </r>
+            <r>
+              <c>NOT el -&gt; em</c>
+            </r>
+            <r>
+              <c>et OR fe -&gt; ff</c>
+            </r>
+            <r>
+              <c>fj LSHIFT 15 -&gt; fn</c>
+            </r>
+            <r>
+              <c>t OR s -&gt; u</c>
+            </r>
+            <r>
+              <c>ly OR lz -&gt; ma</c>
+            </r>
+            <r>
+              <c>ko AND kq -&gt; kr</c>
+            </r>
+            <r>
+              <c>NOT fx -&gt; fy</c>
+            </r>
+            <r>
+              <c>et RSHIFT 1 -&gt; fm</c>
+            </r>
+            <r>
+              <c>eu OR fa -&gt; fb</c>
+            </r>
+            <r>
+              <c>dd RSHIFT 2 -&gt; de</c>
+            </r>
+            <r>
+              <c>NOT go -&gt; gp</c>
+            </r>
+            <r>
+              <c>kb AND kd -&gt; ke</c>
+            </r>
+            <r>
+              <c>hg OR hh -&gt; hi</c>
+            </r>
+            <r>
+              <c>jm LSHIFT 1 -&gt; kg</c>
+            </r>
+            <r>
+              <c>NOT cn -&gt; co</c>
+            </r>
+            <r>
+              <c>jp RSHIFT 2 -&gt; jq</c>
+            </r>
+            <r>
+              <c>jp RSHIFT 5 -&gt; js</c>
+            </r>
+            <r>
+              <c>1 AND io -&gt; ip</c>
+            </r>
+            <r>
+              <c>eo LSHIFT 15 -&gt; es</c>
+            </r>
+            <r>
+              <c>1 AND jj -&gt; jk</c>
+            </r>
+            <r>
+              <c>g AND i -&gt; j</c>
+            </r>
+            <r>
+              <c>ci RSHIFT 3 -&gt; ck</c>
+            </r>
+            <r>
+              <c>gn AND gp -&gt; gq</c>
+            </r>
+            <r>
+              <c>fs AND fu -&gt; fv</c>
+            </r>
+            <r>
+              <c>lj AND ll -&gt; lm</c>
+            </r>
+            <r>
+              <c>jk LSHIFT 15 -&gt; jo</c>
+            </r>
+            <r>
+              <c>iu RSHIFT 3 -&gt; iw</c>
+            </r>
+            <r>
+              <c>NOT ii -&gt; ij</c>
+            </r>
+            <r>
+              <c>1 AND cc -&gt; cd</c>
+            </r>
+            <r>
+              <c>bn RSHIFT 3 -&gt; bp</c>
+            </r>
+            <r>
+              <c>NOT gw -&gt; gx</c>
+            </r>
+            <r>
+              <c>NOT ft -&gt; fu</c>
+            </r>
+            <r>
+              <c>jn OR jo -&gt; jp</c>
+            </r>
+            <r>
+              <c>iv OR jb -&gt; jc</c>
+            </r>
+            <r>
+              <c>hv OR hu -&gt; hw</c>
+            </r>
+            <r>
+              <c>19138 -&gt; b</c>
+            </r>
+            <r>
+              <c>gj RSHIFT 5 -&gt; gm</c>
+            </r>
+            <r>
+              <c>hq AND hs -&gt; ht</c>
+            </r>
+            <r>
+              <c>dy RSHIFT 1 -&gt; er</c>
+            </r>
+            <r>
+              <c>ao OR an -&gt; ap</c>
+            </r>
+            <r>
+              <c>ld OR le -&gt; lf</c>
+            </r>
+            <r>
+              <c>bk LSHIFT 1 -&gt; ce</c>
+            </r>
+            <r>
+              <c>bz AND cb -&gt; cc</c>
+            </r>
+            <r>
+              <c>bi LSHIFT 15 -&gt; bm</c>
+            </r>
+            <r>
+              <c>il AND in -&gt; io</c>
+            </r>
+            <r>
+              <c>af AND ah -&gt; ai</c>
+            </r>
+            <r>
+              <c>as RSHIFT 1 -&gt; bl</c>
+            </r>
+            <r>
+              <c>lf RSHIFT 3 -&gt; lh</c>
+            </r>
+            <r>
+              <c>er OR es -&gt; et</c>
+            </r>
+            <r>
+              <c>NOT ax -&gt; ay</c>
+            </r>
+            <r>
+              <c>ci RSHIFT 1 -&gt; db</c>
+            </r>
+            <r>
+              <c>et AND fe -&gt; fg</c>
+            </r>
+            <r>
+              <c>lg OR lm -&gt; ln</c>
+            </r>
+            <r>
+              <c>k AND m -&gt; n</c>
+            </r>
+            <r>
+              <c>hz RSHIFT 2 -&gt; ia</c>
+            </r>
+            <r>
+              <c>kh LSHIFT 1 -&gt; lb</c>
+            </r>
+            <r>
+              <c>NOT ey -&gt; ez</c>
+            </r>
+            <r>
+              <c>NOT di -&gt; dj</c>
+            </r>
+            <r>
+              <c>dz OR ef -&gt; eg</c>
+            </r>
+            <r>
+              <c>lx -&gt; a</c>
+            </r>
+            <r>
+              <c>NOT iz -&gt; ja</c>
+            </r>
+            <r>
+              <c>gz LSHIFT 15 -&gt; hd</c>
+            </r>
+            <r>
+              <c>ce OR cd -&gt; cf</c>
+            </r>
+            <r>
+              <c>fq AND fr -&gt; ft</c>
+            </r>
+            <r>
+              <c>at AND az -&gt; bb</c>
+            </r>
+            <r>
+              <c>ha OR gz -&gt; hb</c>
+            </r>
+            <r>
+              <c>fp AND fv -&gt; fx</c>
+            </r>
+            <r>
+              <c>NOT gb -&gt; gc</c>
+            </r>
+            <r>
+              <c>ia AND ig -&gt; ii</c>
+            </r>
+            <r>
+              <c>gl OR gm -&gt; gn</c>
+            </r>
+            <r>
+              <c>0 -&gt; c</c>
+            </r>
+            <r>
+              <c>NOT ca -&gt; cb</c>
+            </r>
+            <r>
+              <c>bn RSHIFT 1 -&gt; cg</c>
+            </r>
+            <r>
+              <c>c LSHIFT 1 -&gt; t</c>
+            </r>
+            <r>
+              <c>iw OR ix -&gt; iy</c>
+            </r>
+            <r>
+              <c>kg OR kf -&gt; kh</c>
+            </r>
+            <r>
+              <c>dy OR ej -&gt; ek</c>
+            </r>
+            <r>
+              <c>km AND kn -&gt; kp</c>
+            </r>
+            <r>
+              <c>NOT fc -&gt; fd</c>
+            </r>
+            <r>
+              <c>hz RSHIFT 3 -&gt; ib</c>
+            </r>
+            <r>
+              <c>NOT dq -&gt; dr</c>
+            </r>
+            <r>
+              <c>NOT fg -&gt; fh</c>
+            </r>
+            <r>
+              <c>dy RSHIFT 2 -&gt; dz</c>
+            </r>
+            <r>
+              <c>kk RSHIFT 2 -&gt; kl</c>
+            </r>
+            <r>
+              <c>1 AND fi -&gt; fj</c>
+            </r>
+            <r>
+              <c>NOT hr -&gt; hs</c>
+            </r>
+            <r>
+              <c>jp RSHIFT 1 -&gt; ki</c>
+            </r>
+            <r>
+              <c>bl OR bm -&gt; bn</c>
+            </r>
+            <r>
+              <c>1 AND gy -&gt; gz</c>
+            </r>
+            <r>
+              <c>gr AND gt -&gt; gu</c>
+            </r>
+            <r>
+              <c>db OR dc -&gt; dd</c>
+            </r>
+            <r>
+              <c>de OR dk -&gt; dl</c>
+            </r>
+            <r>
+              <c>as RSHIFT 5 -&gt; av</c>
+            </r>
+            <r>
+              <c>lf RSHIFT 5 -&gt; li</c>
+            </r>
+            <r>
+              <c>hm AND ho -&gt; hp</c>
+            </r>
+            <r>
+              <c>cg OR ch -&gt; ci</c>
+            </r>
+            <r>
+              <c>gj AND gu -&gt; gw</c>
+            </r>
+            <r>
+              <c>ge LSHIFT 15 -&gt; gi</c>
+            </r>
+            <r>
+              <c>e OR f -&gt; g</c>
+            </r>
+            <r>
+              <c>fp OR fv -&gt; fw</c>
+            </r>
+            <r>
+              <c>fb AND fd -&gt; fe</c>
+            </r>
+            <r>
+              <c>cd LSHIFT 15 -&gt; ch</c>
+            </r>
+            <r>
+              <c>b RSHIFT 1 -&gt; v</c>
+            </r>
+            <r>
+              <c>at OR az -&gt; ba</c>
+            </r>
+            <r>
+              <c>bn RSHIFT 2 -&gt; bo</c>
+            </r>
+            <r>
+              <c>lh AND li -&gt; lk</c>
+            </r>
+            <r>
+              <c>dl AND dn -&gt; do</c>
+            </r>
+            <r>
+              <c>eg AND ei -&gt; ej</c>
+            </r>
+            <r>
+              <c>ex AND ez -&gt; fa</c>
+            </r>
+            <r>
+              <c>NOT kp -&gt; kq</c>
+            </r>
+            <r>
+              <c>NOT lk -&gt; ll</c>
+            </r>
+            <r>
+              <c>x AND ai -&gt; ak</c>
+            </r>
+            <r>
+              <c>jp OR ka -&gt; kb</c>
+            </r>
+            <r>
+              <c>NOT jd -&gt; je</c>
+            </r>
+            <r>
+              <c>iy AND ja -&gt; jb</c>
+            </r>
+            <r>
+              <c>jp RSHIFT 3 -&gt; jr</c>
+            </r>
+            <r>
+              <c>fo OR fz -&gt; ga</c>
+            </r>
+            <r>
+              <c>df OR dg -&gt; dh</c>
+            </r>
+            <r>
+              <c>gj RSHIFT 2 -&gt; gk</c>
+            </r>
+            <r>
+              <c>gj OR gu -&gt; gv</c>
+            </r>
+            <r>
+              <c>NOT jh -&gt; ji</c>
+            </r>
+            <r>
+              <c>ap LSHIFT 1 -&gt; bj</c>
+            </r>
+            <r>
+              <c>NOT ls -&gt; lt</c>
+            </r>
+            <r>
+              <c>ir LSHIFT 1 -&gt; jl</c>
+            </r>
+            <r>
+              <c>bn AND by -&gt; ca</c>
+            </r>
+            <r>
+              <c>lv LSHIFT 15 -&gt; lz</c>
+            </r>
+            <r>
+              <c>ba AND bc -&gt; bd</c>
+            </r>
+            <r>
+              <c>cy LSHIFT 15 -&gt; dc</c>
+            </r>
+            <r>
+              <c>ln AND lp -&gt; lq</c>
+            </r>
+            <r>
+              <c>x RSHIFT 1 -&gt; aq</c>
+            </r>
+            <r>
+              <c>gk OR gq -&gt; gr</c>
+            </r>
+            <r>
+              <c>NOT kx -&gt; ky</c>
+            </r>
+            <r>
+              <c>jg AND ji -&gt; jj</c>
+            </r>
+            <r>
+              <c>bn OR by -&gt; bz</c>
+            </r>
+            <r>
+              <c>fl LSHIFT 1 -&gt; gf</c>
+            </r>
+            <r>
+              <c>bp OR bq -&gt; br</c>
+            </r>
+            <r>
+              <c>he OR hp -&gt; hq</c>
+            </r>
+            <r>
+              <c>et RSHIFT 5 -&gt; ew</c>
+            </r>
+            <r>
+              <c>iu RSHIFT 2 -&gt; iv</c>
+            </r>
+            <r>
+              <c>gl AND gm -&gt; go</c>
+            </r>
+            <r>
+              <c>x OR ai -&gt; aj</c>
+            </r>
+            <r>
+              <c>hc OR hd -&gt; he</c>
+            </r>
+            <r>
+              <c>lg AND lm -&gt; lo</c>
+            </r>
+            <r>
+              <c>lh OR li -&gt; lj</c>
+            </r>
+            <r>
+              <c>da LSHIFT 1 -&gt; du</c>
+            </r>
+            <r>
+              <c>fo RSHIFT 2 -&gt; fp</c>
+            </r>
+            <r>
+              <c>gk AND gq -&gt; gs</c>
+            </r>
+            <r>
+              <c>bj OR bi -&gt; bk</c>
+            </r>
+            <r>
+              <c>lf OR lq -&gt; lr</c>
+            </r>
+            <r>
+              <c>cj AND cp -&gt; cr</c>
+            </r>
+            <r>
+              <c>hu LSHIFT 15 -&gt; hy</c>
+            </r>
+            <r>
+              <c>1 AND bh -&gt; bi</c>
+            </r>
+            <r>
+              <c>fo RSHIFT 3 -&gt; fq</c>
+            </r>
+            <r>
+              <c>NOT lo -&gt; lp</c>
+            </r>
+            <r>
+              <c>hw LSHIFT 1 -&gt; iq</c>
+            </r>
+            <r>
+              <c>dd RSHIFT 1 -&gt; dw</c>
+            </r>
+            <r>
+              <c>dt LSHIFT 15 -&gt; dx</c>
+            </r>
+            <r>
+              <c>dy AND ej -&gt; el</c>
+            </r>
+            <r>
+              <c>an LSHIFT 15 -&gt; ar</c>
+            </r>
+            <r>
+              <c>aq OR ar -&gt; as</c>
+            </r>
+            <r>
+              <c>1 AND r -&gt; s</c>
+            </r>
+            <r>
+              <c>fw AND fy -&gt; fz</c>
+            </r>
+            <r>
+              <c>NOT im -&gt; in</c>
+            </r>
+            <r>
+              <c>et RSHIFT 3 -&gt; ev</c>
+            </r>
+            <r>
+              <c>1 AND ds -&gt; dt</c>
+            </r>
+            <r>
+              <c>ec AND ee -&gt; ef</c>
+            </r>
+            <r>
+              <c>NOT ak -&gt; al</c>
+            </r>
+            <r>
+              <c>jl OR jk -&gt; jm</c>
+            </r>
+            <r>
+              <c>1 AND en -&gt; eo</c>
+            </r>
+            <r>
+              <c>lb OR la -&gt; lc</c>
+            </r>
+            <r>
+              <c>iu AND jf -&gt; jh</c>
+            </r>
+            <r>
+              <c>iu RSHIFT 5 -&gt; ix</c>
+            </r>
+            <r>
+              <c>bo AND bu -&gt; bw</c>
+            </r>
+            <r>
+              <c>cz OR cy -&gt; da</c>
+            </r>
+            <r>
+              <c>iv AND jb -&gt; jd</c>
+            </r>
+            <r>
+              <c>iw AND ix -&gt; iz</c>
+            </r>
+            <r>
+              <c>lf RSHIFT 1 -&gt; ly</c>
+            </r>
+            <r>
+              <c>iu OR jf -&gt; jg</c>
+            </r>
+            <r>
+              <c>NOT dm -&gt; dn</c>
+            </r>
+            <r>
+              <c>lw OR lv -&gt; lx</c>
+            </r>
+            <r>
+              <c>gg LSHIFT 1 -&gt; ha</c>
+            </r>
+            <r>
+              <c>lr AND lt -&gt; lu</c>
+            </r>
+            <r>
+              <c>fm OR fn -&gt; fo</c>
+            </r>
+            <r>
+              <c>he RSHIFT 3 -&gt; hg</c>
+            </r>
+            <r>
+              <c>aj AND al -&gt; am</c>
+            </r>
+            <r>
+              <c>1 AND kz -&gt; la</c>
+            </r>
+            <r>
+              <c>dy RSHIFT 5 -&gt; eb</c>
+            </r>
+            <r>
+              <c>jc AND je -&gt; jf</c>
+            </r>
+            <r>
+              <c>cm AND co -&gt; cp</c>
+            </r>
+            <r>
+              <c>gv AND gx -&gt; gy</c>
+            </r>
+            <r>
+              <c>ev OR ew -&gt; ex</c>
+            </r>
+            <r>
+              <c>jp AND ka -&gt; kc</c>
+            </r>
+            <r>
+              <c>fk OR fj -&gt; fl</c>
+            </r>
+            <r>
+              <c>dy RSHIFT 3 -&gt; ea</c>
+            </r>
+            <r>
+              <c>NOT bs -&gt; bt</c>
+            </r>
+            <r>
+              <c>NOT ag -&gt; ah</c>
+            </r>
+            <r>
+              <c>dz AND ef -&gt; eh</c>
+            </r>
+            <r>
+              <c>cf LSHIFT 1 -&gt; cz</c>
+            </r>
+            <r>
+              <c>NOT cv -&gt; cw</c>
+            </r>
+            <r>
+              <c>1 AND cx -&gt; cy</c>
+            </r>
+            <r>
+              <c>de AND dk -&gt; dm</c>
+            </r>
+            <r>
+              <c>ck AND cl -&gt; cn</c>
+            </r>
+            <r>
+              <c>x RSHIFT 5 -&gt; aa</c>
+            </r>
+            <r>
+              <c>dv LSHIFT 1 -&gt; ep</c>
+            </r>
+            <r>
+              <c>he RSHIFT 2 -&gt; hf</c>
+            </r>
+            <r>
+              <c>NOT bw -&gt; bx</c>
+            </r>
+            <r>
+              <c>ck OR cl -&gt; cm</c>
+            </r>
+            <r>
+              <c>bp AND bq -&gt; bs</c>
+            </r>
+            <r>
+              <c>as OR bd -&gt; be</c>
+            </r>
+            <r>
+              <c>he AND hp -&gt; hr</c>
+            </r>
+            <r>
+              <c>ev AND ew -&gt; ey</c>
+            </r>
+            <r>
+              <c>1 AND lu -&gt; lv</c>
+            </r>
+            <r>
+              <c>kk RSHIFT 3 -&gt; km</c>
+            </r>
+            <r>
+              <c>b AND n -&gt; p</c>
+            </r>
+            <r>
+              <c>NOT kc -&gt; kd</c>
+            </r>
+            <r>
+              <c>lc LSHIFT 1 -&gt; lw</c>
+            </r>
+            <r>
+              <c>km OR kn -&gt; ko</c>
+            </r>
+            <r>
+              <c>id AND if -&gt; ig</c>
+            </r>
+            <r>
+              <c>ih AND ij -&gt; ik</c>
+            </r>
+            <r>
+              <c>jr AND js -&gt; ju</c>
+            </r>
+            <r>
+              <c>ci RSHIFT 5 -&gt; cl</c>
+            </r>
+            <r>
+              <c>hz RSHIFT 1 -&gt; is</c>
+            </r>
+            <r>
+              <c>1 AND ke -&gt; kf</c>
+            </r>
+            <r>
+              <c>NOT gs -&gt; gt</c>
+            </r>
+            <r>
+              <c>aw AND ay -&gt; az</c>
+            </r>
+            <r>
+              <c>x RSHIFT 2 -&gt; y</c>
+            </r>
+            <r>
+              <c>ab AND ad -&gt; ae</c>
+            </r>
+            <r>
+              <c>ff AND fh -&gt; fi</c>
+            </r>
+            <r>
+              <c>ci AND ct -&gt; cv</c>
+            </r>
+            <r>
+              <c>eq LSHIFT 1 -&gt; fk</c>
+            </r>
+            <r>
+              <c>gj RSHIFT 3 -&gt; gl</c>
+            </r>
+            <r>
+              <c>u LSHIFT 1 -&gt; ao</c>
+            </r>
+            <r>
+              <c>NOT bb -&gt; bc</c>
+            </r>
+            <r>
+              <c>NOT hj -&gt; hk</c>
+            </r>
+            <r>
+              <c>kw AND ky -&gt; kz</c>
+            </r>
+            <r>
+              <c>as AND bd -&gt; bf</c>
+            </r>
+            <r>
+              <c>dw OR dx -&gt; dy</c>
+            </r>
+            <r>
+              <c>br AND bt -&gt; bu</c>
+            </r>
+            <r>
+              <c>kk AND kv -&gt; kx</c>
+            </r>
+            <r>
+              <c>ep OR eo -&gt; eq</c>
+            </r>
+            <r>
+              <c>he RSHIFT 1 -&gt; hx</c>
+            </r>
+            <r>
+              <c>ki OR kj -&gt; kk</c>
+            </r>
+            <r>
+              <c>NOT ju -&gt; jv</c>
+            </r>
+            <r>
+              <c>ek AND em -&gt; en</c>
+            </r>
+            <r>
+              <c>kk RSHIFT 5 -&gt; kn</c>
+            </r>
+            <r>
+              <c>NOT eh -&gt; ei</c>
+            </r>
+            <r>
+              <c>hx OR hy -&gt; hz</c>
+            </r>
+            <r>
+              <c>ea OR eb -&gt; ec</c>
+            </r>
+            <r>
+              <c>s LSHIFT 15 -&gt; w</c>
+            </r>
+            <r>
+              <c>fo RSHIFT 1 -&gt; gh</c>
+            </r>
+            <r>
+              <c>kk OR kv -&gt; kw</c>
+            </r>
+            <r>
+              <c>bn RSHIFT 5 -&gt; bq</c>
+            </r>
+            <r>
+              <c>NOT ed -&gt; ee</c>
+            </r>
+            <r>
+              <c>1 AND ht -&gt; hu</c>
+            </r>
+            <r>
+              <c>cu AND cw -&gt; cx</c>
+            </r>
+            <r>
+              <c>b RSHIFT 5 -&gt; f</c>
+            </r>
+            <r>
+              <c>kl AND kr -&gt; kt</c>
+            </r>
+            <r>
+              <c>iq OR ip -&gt; ir</c>
+            </r>
+            <r>
+              <c>ci RSHIFT 2 -&gt; cj</c>
+            </r>
+            <r>
+              <c>cj OR cp -&gt; cq</c>
+            </r>
+            <r>
+              <c>o AND q -&gt; r</c>
+            </r>
+            <r>
+              <c>dd RSHIFT 5 -&gt; dg</c>
+            </r>
+            <r>
+              <c>b RSHIFT 2 -&gt; d</c>
+            </r>
+            <r>
+              <c>ks AND ku -&gt; kv</c>
+            </r>
+            <r>
+              <c>b RSHIFT 3 -&gt; e</c>
+            </r>
+            <r>
+              <c>d OR j -&gt; k</c>
+            </r>
+            <r>
+              <c>NOT p -&gt; q</c>
+            </r>
+            <r>
+              <c>NOT cr -&gt; cs</c>
+            </r>
+            <r>
+              <c>du OR dt -&gt; dv</c>
+            </r>
+            <r>
+              <c>kf LSHIFT 15 -&gt; kj</c>
+            </r>
+            <r>
+              <c>NOT ac -&gt; ad</c>
+            </r>
+            <r>
+              <c>fo RSHIFT 5 -&gt; fr</c>
+            </r>
+            <r>
+              <c>hz OR ik -&gt; il</c>
+            </r>
+            <r>
+              <c>jx AND jz -&gt; ka</c>
+            </r>
+            <r>
+              <c>gh OR gi -&gt; gj</c>
+            </r>
+            <r>
+              <c>kk RSHIFT 1 -&gt; ld</c>
+            </r>
+            <r>
+              <c>hz RSHIFT 5 -&gt; ic</c>
+            </r>
+            <r>
+              <c>as RSHIFT 2 -&gt; at</c>
+            </r>
+            <r>
+              <c>NOT jy -&gt; jz</c>
+            </r>
+            <r>
+              <c>1 AND am -&gt; an</c>
+            </r>
+            <r>
+              <c>ci OR ct -&gt; cu</c>
+            </r>
+            <r>
+              <c>hg AND hh -&gt; hj</c>
+            </r>
+            <r>
+              <c>jq OR jw -&gt; jx</c>
+            </r>
+            <r>
+              <c>v OR w -&gt; x</c>
+            </r>
+            <r>
+              <c>la LSHIFT 15 -&gt; le</c>
+            </r>
+            <r>
+              <c>dh AND dj -&gt; dk</c>
+            </r>
+            <r>
+              <c>dp AND dr -&gt; ds</c>
+            </r>
+            <r>
+              <c>jq AND jw -&gt; jy</c>
+            </r>
+            <r>
+              <c>au OR av -&gt; aw</c>
+            </r>
+            <r>
+              <c>NOT bf -&gt; bg</c>
+            </r>
+            <r>
+              <c>z OR aa -&gt; ab</c>
+            </r>
+            <r>
+              <c>ga AND gc -&gt; gd</c>
+            </r>
+            <r>
+              <c>hz AND ik -&gt; im</c>
+            </r>
+            <r>
+              <c>jt AND jv -&gt; jw</c>
+            </r>
+            <r>
+              <c>z AND aa -&gt; ac</c>
+            </r>
+            <r>
+              <c>jr OR js -&gt; jt</c>
+            </r>
+            <r>
+              <c>hb LSHIFT 1 -&gt; hv</c>
+            </r>
+            <r>
+              <c>hf OR hl -&gt; hm</c>
+            </r>
+            <r>
+              <c>ib OR ic -&gt; id</c>
+            </r>
+            <r>
+              <c>fq OR fr -&gt; fs</c>
+            </r>
+            <r>
+              <c>cq AND cs -&gt; ct</c>
+            </r>
+            <r>
+              <c>ia OR ig -&gt; ih</c>
+            </r>
+            <r>
+              <c>dd OR do -&gt; dp</c>
+            </r>
+            <r>
+              <c>d AND j -&gt; l</c>
+            </r>
+            <r>
+              <c>ib AND ic -&gt; ie</c>
+            </r>
+            <r>
+              <c>as RSHIFT 3 -&gt; au</c>
+            </r>
+            <r>
+              <c>be AND bg -&gt; bh</c>
+            </r>
+            <r>
+              <c>dd AND do -&gt; dq</c>
+            </r>
+            <r>
+              <c>NOT l -&gt; m</c>
+            </r>
+            <r>
+              <c>1 AND gd -&gt; ge</c>
+            </r>
+            <r>
+              <c>y AND ae -&gt; ag</c>
+            </r>
+            <r>
+              <c>fo AND fz -&gt; gb</c>
+            </r>
+            <r>
+              <c>NOT ie -&gt; if</c>
+            </r>
+            <r>
+              <c>e AND f -&gt; h</c>
+            </r>
+            <r>
+              <c>x RSHIFT 3 -&gt; z</c>
+            </r>
+            <r>
+              <c>y OR ae -&gt; af</c>
+            </r>
+            <r>
+              <c>hf AND hl -&gt; hn</c>
+            </r>
+            <r>
+              <c>NOT h -&gt; i</c>
+            </r>
+            <r>
+              <c>NOT hn -&gt; ho</c>
+            </r>
+            <r>
+              <c>he RSHIFT 5 -&gt; hh</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="678" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="Output" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="774" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Logic" selected="False" />
+            <SelectField field="Input" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="870" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;-&quot; + [Output] + &quot;-x&quot;" field="Logic" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Logic = "-" + [Output] + "-x"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings>
+        <Position x="954" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="CountRecords.yxmc" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="954" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Logic" action="Concat" rename="Logic">
+              <Concat_Start />
+              <Separator>,</Separator>
+              <Concat_End />
+            </SummarizeField>
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="23">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="1038" y="306" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.GenerateRows.GenerateRows">
+        <Position x="1206" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="True" />
+          <UpdateField_Name>Count</UpdateField_Name>
+          <CreateField_Name>RowCount</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>254</CreateField_Size>
+          <Expression_Init>[Count]+1</Expression_Init>
+          <Expression_Cond>[Count]&gt;=1</Expression_Cond>
+          <Expression_Loop>[Count] - 1</Expression_Loop>
+          <RecordCount value="115260" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxGenerateRows" />
+    </Node>
+    <Node ToolID="25">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="1470" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="True" />
+          <UpdateField_Name>Logic</UpdateField_Name>
+          <CreateField_Name>New Field</CreateField_Name>
+          <CreateField_Type>Int32</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Nearest</OtherRows>
+          <NumRows value="1" />
+          <Expression>IF (REGEX_Match([Input 1],"\d+") or REGEX_Match(REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1"),"\d+")) and (REGEX_Match([Input 2],"\d+") or REGEX_Match(REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1"),"\d+"))
+THEN
+Replace(
+  [Row-1:Logic],
+  "-"+[Output]+"-x",
+  "-"+[Output]+"-" + ToString(Switch([Operation],
+//DEFAULT
+BinaryXOr(ToNumber(IIF(REGEX_Match([Input 1],"\d+"),[Input 1],REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1"))),
+ToNumber(IIF(REGEX_Match([Input 2],"\d+"),[Input 2],REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1")))),
+
+"AND",
+BinaryAnd(ToNumber(IIF(REGEX_Match([Input 1],"\d+"),[Input 1],REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1"))),
+ToNumber(IIF(REGEX_Match([Input 2],"\d+"),[Input 2],REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1")))),
+
+"OR",
+BinaryOr(ToNumber(IIF(REGEX_Match([Input 1],"\d+"),[Input 1],REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1"))),
+ToNumber(IIF(REGEX_Match([Input 2],"\d+"),[Input 2],REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1")))), 
+
+"LSHIFT",
+BinToInt(Right(IntToBin(ToNumber(IIF(REGEX_Match([Input 1],"\d+"),[Input 1],REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1")))) + PadRight("",ToNumber(IIF(REGEX_Match([Input 2],"\d+"),[Input 2],REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1"))),'0'),16)),
+
+"RSHIFT",
+BinToInt(LEFT(PadRight("",ToNumber(IIF(REGEX_Match([Input 2],"\d+"),[Input 2],REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1"))),'0') + PadLeft(IntToBin(ToNumber(IIF(REGEX_Match([Input 1],"\d+"),[Input 1],REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1")))),16,'0'),16))
+    ))
+  )
+ELSE
+[Row-1:Logic]
+ENDIF
+
+/*ToNumber(IIF(REGEX_Match([Input 1],"\d+"),[Input 1],REGEX_Replace([Row-1:Logic],".*-"+[Input 1]+"-(x|\d+).*", "$1"))) +
+ToNumber(IIF(REGEX_Match([Input 2],"\d+"),[Input 2],REGEX_Replace([Row-1:Logic],".*-"+[Input 2]+"-(x|\d+).*", "$1")))*/</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IF (REGEX_Match([Input 1],"\d+") or REGEX_Match(REGEX_Replace...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1566" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\AndrewMerrill\AppData\Local\Temp\Engine_13580_964a0cb2f5a946138709ffc88f1992db_\Engine_13580_14c2438e05354d98bb0a4e105fb3e8fb~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="1386" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
+        <Position x="1122" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <CartesianMode>Error</CartesianMode>
+          <SelectConfiguration>
+            <Configuration outputConnection="Output">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Target_Logic" selected="False" input="Target_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAppendFields" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="1290" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="Count" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Count - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Detour.Detour">
+        <Position x="354" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <DetourRight value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetour" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DetourEnd.DetourEnd">
+        <Position x="594" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDetourEnd" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="452" y="308" width="112" height="119" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Part 2</Caption>
+          <Style TextColor="#314c4a" FillColor="#fff7c6" BorderColor="#314c4a" Transparency="25" Margin="10" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Part 2</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="36">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="462" y="342" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="REGEX_Replace([Logic],&quot;(.*) -&gt; (\w+)&quot;, &quot;$1&quot;)&#xA;" field="Input" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF CountWords([Input]) = 3&#xA;THEN GetWord([Input], 0)&#xA;ELSEIF CountWords([Input]) = 2&#xA;THEN&#xA;&quot;65535&quot; //2^16-1&#xA;ELSE&#xA;&quot;0&quot;&#xA;ENDIF" field="Input 1" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF CountWords([Input]) = 3&#xA;THEN GetWord([Input], 1)&#xA;ELSEIF CountWords([Input]) = 2&#xA;THEN &quot;NOT&quot;&#xA;ELSE &quot;OR&quot;&#xA;ENDIF" field="Operation" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF CountWords([Input]) = 3&#xA;THEN GetWord([Input], 2)&#xA;ELSEIF CountWords([Input]) = 2&#xA;THEN GetWord([Input], 1)&#xA;ELSE [Input]&#xA;ENDIF" field="Input 2" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="REGEX_Replace([Logic],&quot;(.*) -&gt; (\w+)&quot;, &quot;$2&quot;)" field="Output" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IIF([Output] = &quot;b&quot;, &quot;16076&quot;,[Input 2])" field="Input 2" size="1073741823" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Parse Data</AnnotationText>
+              <DefaultAnnotationText>Input = REGEX_Replace([Logic],"(.*) -&gt; (\w+)", "$1")
+
+Input 1 = IF CountWords([I...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="452" y="164" width="112" height="119" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Part 1</Caption>
+          <Style TextColor="#314c4a" FillColor="#fff7c6" BorderColor="#314c4a" Transparency="25" Margin="10" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Part 1</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="2">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="462" y="198" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="REGEX_Replace([Logic],&quot;(.*) -&gt; (\w+)&quot;, &quot;$1&quot;)&#xA;" field="Input" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF CountWords([Input]) = 3&#xA;THEN GetWord([Input], 0)&#xA;ELSEIF CountWords([Input]) = 2&#xA;THEN&#xA;&quot;65535&quot; //2^16-1&#xA;ELSE&#xA;&quot;0&quot;&#xA;ENDIF" field="Input 1" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF CountWords([Input]) = 3&#xA;THEN GetWord([Input], 1)&#xA;ELSEIF CountWords([Input]) = 2&#xA;THEN &quot;NOT&quot;&#xA;ELSE &quot;OR&quot;&#xA;ENDIF" field="Operation" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="IF CountWords([Input]) = 3&#xA;THEN GetWord([Input], 2)&#xA;ELSEIF CountWords([Input]) = 2&#xA;THEN GetWord([Input], 1)&#xA;ELSE [Input]&#xA;ENDIF" field="Input 2" size="1073741823" type="V_WString" enabled="true" />
+                <FormulaField expression="REGEX_Replace([Logic],&quot;(.*) -&gt; (\w+)&quot;, &quot;$2&quot;)" field="Output" size="1073741823" type="V_WString" enabled="true" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <AnnotationText>Parse Data</AnnotationText>
+              <DefaultAnnotationText>Input = REGEX_Replace([Logic],"(.*) -&gt; (\w+)", "$1")
+
+Input 1 = IF CountWords([I...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Unique" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="21" Connection="Input8" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="32" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="23" Connection="Output" />
+      <Destination ToolID="32" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Output9" />
+      <Destination ToolID="23" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="23" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="24" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="25" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="25" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="24" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Left" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Right" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="35" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="35" Connection="Left" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Q7</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d6cb3a57-08f7-49b0-9bb2-2f1fa388cddc" />
+      <Telemetry>
+        <PreviousWorkflowId value="7c28789b-f108-4296-a6bd-415004f396c7" />
+        <OriginWorkflowId value="7c28789b-f108-4296-a6bd-415004f396c7" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
